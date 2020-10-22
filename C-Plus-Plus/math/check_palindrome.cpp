@@ -8,7 +8,7 @@ int main()
      cin >> num;
 
      n = num;
-
+    ///
      do
      {
          digit = num % 10;
